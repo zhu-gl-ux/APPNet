@@ -4,7 +4,7 @@
 predictions and local predictions to generate accurate pixel-wise representation. Furthermore, we develop an adaptive points
 replacement module to compensate for the lack of fine detail in global prediction and the overconfidence in local predictions.
 <figure>
-  <text-align: center;>
+  <center;>
   <img src="https://github.com/zhu-gl-ux/APPNet/blob/main/image/pipeline.png" />
 </figure>
 ## Results
