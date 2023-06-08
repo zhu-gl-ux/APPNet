@@ -7,8 +7,7 @@ replacement module to compensate for the lack of fine detail in global predictio
   <img src="https://github.com/zhu-gl-ux/APPNet/blob/main/image/pipeline.png" />
 </p>
 ## Results
-Our method can be readily integrated into existing segmentation methods (i.e., ConvNeXt, HRNet, ViT-Adapter) with little memory and without extra modification in current models. We empirically demonstrate our method brings performance improvements across diverse datasets (i.e., Cityscapes, ADE20K,
-PASCAL-Context, COCO-Stuff).
+Our method can be readily integrated into existing segmentation methods (i.e., ConvNeXt, HRNet, ViT-Adapter) with little memory and without extra modification in current models. We empirically demonstrate our method brings performance improvements across diverse datasets (i.e., Cityscapes, ADE20K, PASCAL-Context, COCO-Stuff).
 ![results](image/results.png)
 ## Visualization
 ![cityscapes](image/cityscapes.png)
