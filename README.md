@@ -25,4 +25,4 @@ Our method can be readily integrated into existing segmentation methods (i.e., C
 
 [3] A ConvNet for the 2020s. Zhuang Liu, Hanzi Mao, Chao-Yuan Wu, Christoph Feichtenhofer, Trevor Darrell, Saining Xie. [download](https://arxiv.org/pdf/2201.03545.pdf)
 
-[3] Vision Transformer Adapter for Dense Predictions. Zhe Chen, Yuchen Duan, Wenhai Wang, Junjun He, Tong Lu, Jifeng Dai, Yu Qiao. [download](https://arxiv.org/pdf/2205.08534.pdf)
+[4] Vision Transformer Adapter for Dense Predictions. Zhe Chen, Yuchen Duan, Wenhai Wang, Junjun He, Tong Lu, Jifeng Dai, Yu Qiao. [download](https://arxiv.org/pdf/2205.08534.pdf)
