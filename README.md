@@ -14,7 +14,7 @@ replacement module to compensate for the lack of fine detail in global predictio
 
 ## Results
 Our method can be readily integrated into existing segmentation methods (i.e., ConvNeXt, HRNet, ViT-Adapter) with little memory and without extra modification in current models. We empirically demonstrate our method brings performance improvements across diverse datasets (i.e., Cityscapes, ADE20K, PASCAL-Context, COCO-Stuff).
-<img src="https://github.com/zhu-gl-ux/APPNet/blob/main/image/results.png" />
+<img src="https://github.com/zhu-gl-ux/APPNet/blob/main/image/results.png" width="200" />
 ## Visualization
 <img src="https://github.com/zhu-gl-ux/APPNet/blob/main/image/cityscapes.png" />
 
@@ -23,3 +23,6 @@ Our method can be readily integrated into existing segmentation methods (i.e., C
 
 [2] Object-Contextual Representations for Semantic Segmentation. Yuhui Yuan, Xilin Chen, Jingdong Wang. [download](https://arxiv.org/pdf/1909.11065.pdf)
 
+[3] A ConvNet for the 2020s. Zhuang Liu, Hanzi Mao, Chao-Yuan Wu, Christoph Feichtenhofer, Trevor Darrell, Saining Xie. [download](https://arxiv.org/pdf/2201.03545.pdf)
+
+[3] Vision Transformer Adapter for Dense Predictions. Zhe Chen, Yuchen Duan, Wenhai Wang, Junjun He, Tong Lu, Jifeng Dai, Yu Qiao. [download](https://arxiv.org/pdf/2205.08534.pdf)
