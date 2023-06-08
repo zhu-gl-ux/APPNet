@@ -4,7 +4,7 @@
 predictions and local predictions to generate accurate pixel-wise representation. Furthermore, we develop an adaptive points
 replacement module to compensate for the lack of fine detail in global prediction and the overconfidence in local predictions.
 <figure>
-  <center;>
+  <text-align: center;>
   <img src="https://github.com/zhu-gl-ux/APPNet/blob/main/image/pipeline.png" />
 </figure>
 ## Results
@@ -12,5 +12,9 @@ Our method can be readily integrated into existing segmentation methods (i.e., C
 <img src="https://github.com/zhu-gl-ux/APPNet/blob/main/image/results.png" >
 ## Visualization
 <img src="https://github.com/zhu-gl-ux/APPNet/blob/main/image/cityscapes.png" >
-
+## Reference
+[1] Deep High-Resolution Representation Learning for Visual Recognition. Jingdong Wang, Ke Sun, Tianheng Cheng, 
+    Borui Jiang, Chaorui Deng, Yang Zhao, Dong Liu, Yadong Mu, Mingkui Tan, Xinggang Wang, Wenyu Liu, Bin Xiao. Accepted by TPAMI.  [download](https://arxiv.org/pdf/1908.07919.pdf)
+    
+[2] Object-Contextual Representations for Semantic Segmentation. Yuhui Yuan, Xilin Chen, Jingdong Wang. [download](https://arxiv.org/pdf/1909.11065.pdf)
 The code is being sorted and will be uploaded later.
