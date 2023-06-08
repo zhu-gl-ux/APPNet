@@ -7,7 +7,7 @@ replacement module to compensate for the lack of fine detail in global predictio
 
 
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/zhu-gl-ux/APPNet/blob/main/image/cityscapes.png" />
 </p>
 
 
