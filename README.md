@@ -4,16 +4,16 @@
 predictions and local predictions to generate accurate pixel-wise representation. Furthermore, we develop an adaptive points
 replacement module to compensate for the lack of fine detail in global prediction and the overconfidence in local predictions.
 <div align=center>
-<img src="https://github.com/zhu-gl-ux/APPNet/blob/main/image/pipeline.png" />
+<img src="https://github.com/zhu-gl-ux/APPNet/blob/main/image/pipeline.png">
 </div>
 ## Results
 Our method can be readily integrated into existing segmentation methods (i.e., ConvNeXt, HRNet, ViT-Adapter) with little memory and without extra modification in current models. We empirically demonstrate our method brings performance improvements across diverse datasets (i.e., Cityscapes, ADE20K, PASCAL-Context, COCO-Stuff).
 <div align=center>
-<img src="https://github.com/zhu-gl-ux/APPNet/blob/main/image/results.png" />
+<img src="https://github.com/zhu-gl-ux/APPNet/blob/main/image/results.png" >
 </div>
 ## Visualization
 <div align=center>
-<img src="https://github.com/zhu-gl-ux/APPNet/blob/main/image/cityscapes.png" />
+<img src="https://github.com/zhu-gl-ux/APPNet/blob/main/image/cityscapes.png" >
 </div>
 
 The code is being sorted and will be uploaded later.
