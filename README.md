@@ -20,7 +20,9 @@ Our method can be readily integrated into existing segmentation methods (i.e., C
 </p>
 
 ## Visualization
-<img src="https://github.com/zhu-gl-ux/APPNet/blob/main/image/cityscapes.png" />
+<img src="https://github.com/zhu-gl-ux/APPNet/blob/master/image/cityscapes.png" />
+
+
 ## Acknowledgment
 Our code is based on [MagNet](https://github.com/VinAIResearch/MagNet/tree/main)
 ## Reference
